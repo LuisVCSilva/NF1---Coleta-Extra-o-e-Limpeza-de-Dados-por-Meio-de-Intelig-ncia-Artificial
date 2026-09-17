@@ -3,4 +3,5 @@ flask
 nltk
 scipy
 rapidfuzz
-sklearn
+matplotlib
+

@@ -262,6 +262,16 @@ CORPUS = {
 
     ],
 
+        "financeiro": [
+
+        "não consigo pagar minha mensalidade",
+        "nao consigo gerar um boleto",
+        "o valor da mensalidade esta errado",
+        "quando vence a mensalidade?",
+        "como vejo minhas faturas?"
+
+    ],
+
     "calendario": [
 
         "quando começa o semestre",
@@ -309,7 +319,11 @@ RESPOSTAS = {
 
     "calendario":
         "O calendário acadêmico contém as principais "
-        "datas do período letivo."
+        "datas do período letivo.",
+
+    "financeiro":
+        "As faturas vencem dia 28 do mes"
+        "bom dia, para esse assunto entre em contato com a tesouraria." 
 
 }
 

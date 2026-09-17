@@ -1,0 +1,1956 @@
+{
+  "entradas": [
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.23342,
+          "1": 2.150823,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.406554
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.983344,
+        "probabilidades": {
+          "acesso": 0.000481,
+          "avaliacao": 0.983344,
+          "calendario": 0.009211,
+          "frequencia": 0.000576,
+          "notas": 0.006389
+        }
+      },
+      "texto": "quando será a próxima prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.382477,
+          "1": 2.150823,
+          "2": 2.217739,
+          "3": 2.44104,
+          "4": 2.231232
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.975286,
+        "probabilidades": {
+          "acesso": 0.000766,
+          "avaliacao": 0.975286,
+          "calendario": 0.009176,
+          "frequencia": 0.004588,
+          "notas": 0.010183
+        }
+      },
+      "texto": "qual a data da avaliação"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.2676,
+          "1": 2.150823,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.591839
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.970854,
+        "probabilidades": {
+          "acesso": 0.001582,
+          "avaliacao": 0.970854,
+          "calendario": 0.015156,
+          "frequencia": 0.001895,
+          "notas": 0.010513
+        }
+      },
+      "texto": "quando vai ser a prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.437042,
+          "1": 2.126212,
+          "2": 2.249717,
+          "3": 2.44104,
+          "4": 2.180865
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.981987,
+        "probabilidades": {
+          "acesso": 0.000686,
+          "avaliacao": 0.981987,
+          "calendario": 0.004106,
+          "frequencia": 0.004106,
+          "notas": 0.009114
+        }
+      },
+      "texto": "qual o dia da prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.23342,
+          "1": 2.175156,
+          "2": 1.8681,
+          "3": 2.40351,
+          "4": 1.483448
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.856029,
+        "probabilidades": {
+          "acesso": 0.006278,
+          "avaliacao": 0.856029,
+          "calendario": 0.024055,
+          "frequencia": 0.013531,
+          "notas": 0.100107
+        }
+      },
+      "texto": "quando será minha avaliação"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.23342,
+          "1": 1.972105,
+          "2": 2.281246,
+          "3": 2.44104,
+          "4": 1.938085
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.922184,
+        "probabilidades": {
+          "acesso": 0.002029,
+          "avaliacao": 0.922184,
+          "calendario": 0.014577,
+          "frequencia": 0.007288,
+          "notas": 0.053922
+        }
+      },
+      "texto": "onde será a próxima prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.072645,
+          "1": 1.931658,
+          "2": 2.084931,
+          "3": 2.226809,
+          "4": 1.325207
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.780891,
+        "probabilidades": {
+          "acesso": 0.006071,
+          "avaliacao": 0.780891,
+          "calendario": 0.166771,
+          "frequencia": 0.006949,
+          "notas": 0.039318
+        }
+      },
+      "texto": "quando começa a avaliação"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.489609,
+          "1": 2.126212,
+          "2": 2.249717,
+          "3": 2.44104,
+          "4": 2.180865
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.973222,
+        "probabilidades": {
+          "acesso": 0.00102,
+          "avaliacao": 0.973222,
+          "calendario": 0.006105,
+          "frequencia": 0.006105,
+          "notas": 0.013549
+        }
+      },
+      "texto": "qual o prazo da prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.072645,
+          "1": 1.931658,
+          "2": 2.084931,
+          "3": 2.226809,
+          "4": 1.366486
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.915632,
+        "probabilidades": {
+          "acesso": 0.004746,
+          "avaliacao": 0.915632,
+          "calendario": 0.043455,
+          "frequencia": 0.005432,
+          "notas": 0.030735
+        }
+      },
+      "texto": "quando teremos a avaliação"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.613552,
+          "1": 2.349633,
+          "2": 2.461955,
+          "3": 2.637931,
+          "4": 2.352435
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.995888,
+        "probabilidades": {
+          "acesso": 0.000123,
+          "avaliacao": 0.995888,
+          "calendario": 0.001541,
+          "frequencia": 0.000771,
+          "notas": 0.001677
+        }
+      },
+      "texto": "qual a data da próxima prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.2676,
+          "1": 2.150823,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.591839
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.970854,
+        "probabilidades": {
+          "acesso": 0.001582,
+          "avaliacao": 0.970854,
+          "calendario": 0.015156,
+          "frequencia": 0.001895,
+          "notas": 0.010513
+        }
+      },
+      "texto": "quando vai acontecer a prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.540383,
+          "1": 2.175156,
+          "2": 2.281246,
+          "3": 2.44104,
+          "4": 2.280486
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.82458,
+        "probabilidades": {
+          "acesso": 0.003888,
+          "avaliacao": 0.82458,
+          "calendario": 0.139648,
+          "frequencia": 0.023275,
+          "notas": 0.00861
+        }
+      },
+      "texto": "qual a data do exame"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.109432,
+          "1": 1.931658,
+          "2": 2.118914,
+          "3": 2.226809,
+          "4": 1.2826
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.856516,
+        "probabilidades": {
+          "acesso": 0.005327,
+          "avaliacao": 0.856516,
+          "calendario": 0.097558,
+          "frequencia": 0.006097,
+          "notas": 0.034501
+        }
+      },
+      "texto": "quando será o exame"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.035193,
+          "1": 1.904216,
+          "2": 2.118914,
+          "3": 2.226809,
+          "4": 1.2826
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.942127,
+        "probabilidades": {
+          "acesso": 0.003255,
+          "avaliacao": 0.942127,
+          "calendario": 0.029808,
+          "frequencia": 0.003726,
+          "notas": 0.021083
+        }
+      },
+      "texto": "quando teremos a prova"
+    },
+    {
+      "classe_real": "avaliacao",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.489609,
+          "1": 2.150823,
+          "2": 2.217739,
+          "3": 2.44104,
+          "4": 2.231232
+        }
+      },
+      "naive_bayes": {
+        "classe": "avaliacao",
+        "confianca": 0.973222,
+        "probabilidades": {
+          "acesso": 0.00102,
+          "avaliacao": 0.973222,
+          "calendario": 0.006105,
+          "frequencia": 0.006105,
+          "notas": 0.013549
+        }
+      },
+      "texto": "qual o dia da avaliação"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.51995,
+          "2": 2.249717,
+          "3": 2.44104,
+          "4": 2.280486
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.948783,
+        "probabilidades": {
+          "acesso": 0.00119,
+          "avaliacao": 0.003005,
+          "calendario": 0.008549,
+          "frequencia": 0.038473,
+          "notas": 0.948783
+        }
+      },
+      "texto": "onde vejo minhas notas"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.024777,
+          "2": 1.385051,
+          "3": 2.40351,
+          "4": 2.206192
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.865204,
+        "probabilidades": {
+          "acesso": 0.003721,
+          "avaliacao": 0.001879,
+          "calendario": 0.000891,
+          "frequencia": 0.128305,
+          "notas": 0.865204
+        }
+      },
+      "texto": "quero consultar minha nota"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 1.81545,
+          "1": 2.175156,
+          "2": 1.622545,
+          "3": 2.40351,
+          "4": 2.206192
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.69266,
+        "probabilidades": {
+          "acesso": 0.018617,
+          "avaliacao": 0.065811,
+          "calendario": 0.022291,
+          "frequencia": 0.200621,
+          "notas": 0.69266
+        }
+      },
+      "texto": "qual foi minha nota"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.145589,
+          "1": 1.931658,
+          "2": 1.979487,
+          "3": 2.226809,
+          "4": 1.445512
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.673074,
+        "probabilidades": {
+          "acesso": 0.014846,
+          "avaliacao": 0.159139,
+          "calendario": 0.135947,
+          "frequencia": 0.016993,
+          "notas": 0.673074
+        }
+      },
+      "texto": "quando sai a nota"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.715176,
+          "2": 2.281246,
+          "3": 2.44104,
+          "4": 2.280486
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.930396,
+        "probabilidades": {
+          "acesso": 0.00389,
+          "avaliacao": 0.009822,
+          "calendario": 0.013973,
+          "frequencia": 0.041919,
+          "notas": 0.930396
+        }
+      },
+      "texto": "onde estão minhas avaliações"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.126212,
+          "2": 1.385051,
+          "3": 2.40351,
+          "4": 2.206192
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.880218,
+        "probabilidades": {
+          "acesso": 0.006309,
+          "avaliacao": 0.003186,
+          "calendario": 0.001511,
+          "frequencia": 0.108776,
+          "notas": 0.880218
+        }
+      },
+      "texto": "quero saber minha nota"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.715176,
+          "2": 2.217739,
+          "3": 2.44104,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.939308,
+        "probabilidades": {
+          "acesso": 0.001885,
+          "avaliacao": 0.00238,
+          "calendario": 0.002257,
+          "frequencia": 0.05417,
+          "notas": 0.939308
+        }
+      },
+      "texto": "como consultar minhas notas"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.317926,
+          "1": 2.011738,
+          "2": 2.403229,
+          "3": 2.637931,
+          "4": 2.375934
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.799266,
+        "probabilidades": {
+          "acesso": 0.001222,
+          "avaliacao": 0.176561,
+          "calendario": 0.00918,
+          "frequencia": 0.013771,
+          "notas": 0.799266
+        }
+      },
+      "texto": "onde vejo o resultado da prova"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.0634,
+          "2": 2.547508,
+          "3": 2.637931,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.973753,
+        "probabilidades": {
+          "acesso": 0.003572,
+          "avaliacao": 0.00478,
+          "calendario": 0.004474,
+          "frequencia": 0.013421,
+          "notas": 0.973753
+        }
+      },
+      "texto": "minhas notas já foram lançadas"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.775487,
+          "2": 2.084931,
+          "3": 2.44104,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.89104,
+        "probabilidades": {
+          "acesso": 0.001788,
+          "avaliacao": 0.002258,
+          "calendario": 0.002141,
+          "frequencia": 0.102773,
+          "notas": 0.89104
+        }
+      },
+      "texto": "quero consultar minhas avaliações"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 1.998614,
+          "2": 1.531972,
+          "3": 2.40351,
+          "4": 2.180865
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.870126,
+        "probabilidades": {
+          "acesso": 0.015592,
+          "avaliacao": 0.007874,
+          "calendario": 0.0056,
+          "frequencia": 0.100809,
+          "notas": 0.870126
+        }
+      },
+      "texto": "onde está minha nota"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.509155,
+          "1": 2.394014,
+          "2": 2.015248,
+          "3": 2.60324,
+          "4": 1.789027
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.785044,
+        "probabilidades": {
+          "acesso": 0.006857,
+          "avaliacao": 0.165161,
+          "calendario": 0.02748,
+          "frequencia": 0.015458,
+          "notas": 0.785044
+        }
+      },
+      "texto": "quando será divulgada minha nota"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.145589,
+          "1": 1.668512,
+          "2": 2.015248,
+          "3": 2.226809,
+          "4": 2.07647
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.820332,
+        "probabilidades": {
+          "acesso": 0.015833,
+          "avaliacao": 0.018857,
+          "calendario": 0.036245,
+          "frequencia": 0.108734,
+          "notas": 0.820332
+        }
+      },
+      "texto": "como vejo o resultado"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.350878,
+          "1": 2.281444,
+          "2": 2.217739,
+          "3": 2.637931,
+          "4": 2.445076
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.871211,
+        "probabilidades": {
+          "acesso": 0.002131,
+          "avaliacao": 0.102642,
+          "calendario": 0.002668,
+          "frequencia": 0.021348,
+          "notas": 0.871211
+        }
+      },
+      "texto": "quero saber o resultado da avaliação"
+    },
+    {
+      "classe_real": "notas",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.684211,
+          "2": 2.185294,
+          "3": 2.44104,
+          "4": 2.231232
+        }
+      },
+      "naive_bayes": {
+        "classe": "notas",
+        "confianca": 0.902584,
+        "probabilidades": {
+          "acesso": 0.002717,
+          "avaliacao": 0.006861,
+          "calendario": 0.048799,
+          "frequencia": 0.039039,
+          "notas": 0.902584
+        }
+      },
+      "texto": "onde consultar as notas"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 1.515209,
+          "1": 1.931658,
+          "2": 1.277753,
+          "3": 2.185603,
+          "4": 2.022253
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.884514,
+        "probabilidades": {
+          "acesso": 0.01431,
+          "avaliacao": 0.047723,
+          "calendario": 0.01638,
+          "frequencia": 0.884514,
+          "notas": 0.037073
+        }
+      },
+      "texto": "qual minha frequência"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.833816,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.986069,
+        "probabilidades": {
+          "acesso": 0.00305,
+          "avaliacao": 0.003851,
+          "calendario": 0.003652,
+          "frequencia": 0.986069,
+          "notas": 0.003377
+        }
+      },
+      "texto": "quantas faltas eu tenho"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.024777,
+          "2": 1.332483,
+          "3": 2.40351,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.855442,
+        "probabilidades": {
+          "acesso": 0.004135,
+          "avaliacao": 0.002088,
+          "calendario": 0.00099,
+          "frequencia": 0.855442,
+          "notas": 0.137346
+        }
+      },
+      "texto": "quero consultar minha frequência"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.48492,
+          "2": 2.249717,
+          "3": 2.44104,
+          "4": 2.280486
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.532693,
+        "probabilidades": {
+          "acesso": 0.002746,
+          "avaliacao": 0.006934,
+          "calendario": 0.019729,
+          "frequencia": 0.532693,
+          "notas": 0.437897
+        }
+      },
+      "texto": "onde vejo minhas faltas"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.836513,
+          "1": 2.394014,
+          "2": 2.050386,
+          "3": 2.60324,
+          "4": 2.467692
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.974846,
+        "probabilidades": {
+          "acesso": 0.002883,
+          "avaliacao": 0.010802,
+          "calendario": 0.003611,
+          "frequencia": 0.974846,
+          "notas": 0.007859
+        }
+      },
+      "texto": "qual minha porcentagem de presença"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.890346,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.969193,
+        "probabilidades": {
+          "acesso": 0.006746,
+          "avaliacao": 0.008516,
+          "calendario": 0.008077,
+          "frequencia": 0.969193,
+          "notas": 0.007469
+        }
+      },
+      "texto": "quantas faltas posso ter"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.198709,
+          "1": 2.024777,
+          "2": 1.708323,
+          "3": 2.40351,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.799082,
+        "probabilidades": {
+          "acesso": 0.009269,
+          "avaliacao": 0.004681,
+          "calendario": 0.00222,
+          "frequencia": 0.799082,
+          "notas": 0.184748
+        }
+      },
+      "texto": "como consultar minha presença"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.126212,
+          "2": 1.332483,
+          "3": 2.40351,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.826768,
+        "probabilidades": {
+          "acesso": 0.007992,
+          "avaliacao": 0.004036,
+          "calendario": 0.001914,
+          "frequencia": 0.826768,
+          "notas": 0.15929
+        }
+      },
+      "texto": "quero saber minha frequência"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.945234,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.89801,
+        "probabilidades": {
+          "acesso": 0.0125,
+          "avaliacao": 0.015781,
+          "calendario": 0.059867,
+          "frequencia": 0.89801,
+          "notas": 0.013841
+        }
+      },
+      "texto": "quantas aulas eu faltei"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.175156,
+          "2": 1.531972,
+          "3": 2.40351,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.905439,
+        "probabilidades": {
+          "acesso": 0.03501,
+          "avaliacao": 0.00884,
+          "calendario": 0.004192,
+          "frequencia": 0.905439,
+          "notas": 0.046519
+        }
+      },
+      "texto": "minha frequência está disponível"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.877932,
+          "1": 2.394014,
+          "2": 2.461955,
+          "3": 2.60324,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.949698,
+        "probabilidades": {
+          "acesso": 0.005055,
+          "avaliacao": 0.023677,
+          "calendario": 0.015828,
+          "frequencia": 0.949698,
+          "notas": 0.005742
+        }
+      },
+      "texto": "qual meu percentual de presença"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.367182,
+          "1": 1.684211,
+          "2": 2.084931,
+          "3": 2.44104,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.670376,
+        "probabilidades": {
+          "acesso": 0.001944,
+          "avaliacao": 0.002454,
+          "calendario": 0.002328,
+          "frequencia": 0.670376,
+          "notas": 0.322898
+        }
+      },
+      "texto": "quero consultar minhas faltas"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.145589,
+          "1": 1.604184,
+          "2": 2.118914,
+          "3": 2.226809,
+          "4": 2.07647
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.958903,
+        "probabilidades": {
+          "acesso": 0.009308,
+          "avaliacao": 0.011086,
+          "calendario": 0.010654,
+          "frequencia": 0.958903,
+          "notas": 0.010048
+        }
+      },
+      "texto": "quantas faltas tenho"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 1.862295,
+          "2": 1.577909,
+          "3": 2.40351,
+          "4": 2.231232
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.767088,
+        "probabilidades": {
+          "acesso": 0.006591,
+          "avaliacao": 0.006657,
+          "calendario": 0.00947,
+          "frequencia": 0.767088,
+          "notas": 0.210193
+        }
+      },
+      "texto": "onde vejo minha frequência"
+    },
+    {
+      "classe_real": "frequencia",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.354371,
+          "1": 1.931658,
+          "2": 1.484615,
+          "3": 2.185603,
+          "4": 2.022253
+        }
+      },
+      "naive_bayes": {
+        "classe": "frequencia",
+        "confianca": 0.864545,
+        "probabilidades": {
+          "acesso": 0.016785,
+          "avaliacao": 0.055975,
+          "calendario": 0.019212,
+          "frequencia": 0.864545,
+          "notas": 0.043483
+        }
+      },
+      "texto": "qual minha presença"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.367182,
+          "1": 2.150823,
+          "2": 2.312345,
+          "3": 1.109687,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.998532,
+        "probabilidades": {
+          "acesso": 0.998532,
+          "avaliacao": 0.000389,
+          "calendario": 0.000369,
+          "frequencia": 0.000369,
+          "notas": 0.000341
+        }
+      },
+      "texto": "não consigo acessar o sistema"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.175156,
+          "2": 1.708323,
+          "3": 1.943414,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.971474,
+        "probabilidades": {
+          "acesso": 0.971474,
+          "avaliacao": 0.003407,
+          "calendario": 0.001616,
+          "frequencia": 0.01454,
+          "notas": 0.008964
+        }
+      },
+      "texto": "minha senha não funciona"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.371927,
+          "2": 2.519313,
+          "3": 1.610913,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.998561,
+        "probabilidades": {
+          "acesso": 0.998561,
+          "avaliacao": 0.000387,
+          "calendario": 0.000362,
+          "frequencia": 0.000362,
+          "notas": 0.000328
+        }
+      },
+      "texto": "não consigo entrar no brightspace"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.367182,
+          "1": 2.150823,
+          "2": 2.312345,
+          "3": 2.034821,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.975786,
+        "probabilidades": {
+          "acesso": 0.975786,
+          "avaliacao": 0.006416,
+          "calendario": 0.006085,
+          "frequencia": 0.006085,
+          "notas": 0.005627
+        }
+      },
+      "texto": "problema para acessar a plataforma"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.367182,
+          "1": 2.175156,
+          "2": 2.312345,
+          "3": 1.463043,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.992701,
+        "probabilidades": {
+          "acesso": 0.992701,
+          "avaliacao": 0.001934,
+          "calendario": 0.001834,
+          "frequencia": 0.001834,
+          "notas": 0.001696
+        }
+      },
+      "texto": "não consigo fazer login"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.145589,
+          "1": 1.904216,
+          "2": 2.084931,
+          "3": 1.553455,
+          "4": 2.07647
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.963394,
+        "probabilidades": {
+          "acesso": 0.963394,
+          "avaliacao": 0.009562,
+          "calendario": 0.009189,
+          "frequencia": 0.009189,
+          "notas": 0.008666
+        }
+      },
+      "texto": "o sistema não abre"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.509155,
+          "1": 2.394014,
+          "2": 2.118914,
+          "3": 1.553455,
+          "4": 2.467692
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.996614,
+        "probabilidades": {
+          "acesso": 0.996614,
+          "avaliacao": 0.000412,
+          "calendario": 0.000193,
+          "frequencia": 0.001734,
+          "notas": 0.001048
+        }
+      },
+      "texto": "não consigo acessar minha conta"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.175156,
+          "2": 1.622545,
+          "3": 2.40351,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.674754,
+        "probabilidades": {
+          "acesso": 0.674754,
+          "avaliacao": 0.021297,
+          "calendario": 0.010099,
+          "frequencia": 0.181778,
+          "notas": 0.112072
+        }
+      },
+      "texto": "minha senha está errada"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.394014,
+          "2": 2.519313,
+          "3": 1.553455,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.998561,
+        "probabilidades": {
+          "acesso": 0.998561,
+          "avaliacao": 0.000387,
+          "calendario": 0.000362,
+          "frequencia": 0.000362,
+          "notas": 0.000328
+        }
+      },
+      "texto": "não consigo entrar na plataforma"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.281444,
+          "2": 2.519313,
+          "3": 2.422348,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.984679,
+        "probabilidades": {
+          "acesso": 0.984679,
+          "avaliacao": 0.004118,
+          "calendario": 0.003854,
+          "frequencia": 0.003854,
+          "notas": 0.003495
+        }
+      },
+      "texto": "problema no acesso ao sistema"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.394014,
+          "2": 2.519313,
+          "3": 1.553455,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.998083,
+        "probabilidades": {
+          "acesso": 0.998083,
+          "avaliacao": 0.000515,
+          "calendario": 0.000482,
+          "frequencia": 0.000482,
+          "notas": 0.000437
+        }
+      },
+      "texto": "não consigo acessar o ambiente virtual"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.349633,
+          "2": 2.519313,
+          "3": 1.493789,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.999424,
+        "probabilidades": {
+          "acesso": 0.999424,
+          "avaliacao": 0.000155,
+          "calendario": 0.000145,
+          "frequencia": 0.000145,
+          "notas": 0.000131
+        }
+      },
+      "texto": "não consigo entrar no sistema"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.33446,
+          "1": 2.175156,
+          "2": 2.281246,
+          "3": 1.847491,
+          "4": 2.304719
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.973141,
+        "probabilidades": {
+          "acesso": 0.973141,
+          "avaliacao": 0.005688,
+          "calendario": 0.005394,
+          "frequencia": 0.010789,
+          "notas": 0.004989
+        }
+      },
+      "texto": "meu login não funciona"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "frequencia",
+        "cluster": 2,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.150823,
+          "2": 1.708323,
+          "3": 2.365384,
+          "4": 2.255993
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.883285,
+        "probabilidades": {
+          "acesso": 0.883285,
+          "avaliacao": 0.013939,
+          "calendario": 0.00661,
+          "frequencia": 0.059489,
+          "notas": 0.036677
+        }
+      },
+      "texto": "problema com minha senha"
+    },
+    {
+      "classe_real": "acesso",
+      "kmeans": {
+        "classe_predominante_do_cluster": "acesso",
+        "cluster": 3,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.394014,
+          "2": 2.519313,
+          "3": 1.431638,
+          "4": 2.512315
+        }
+      },
+      "naive_bayes": {
+        "classe": "acesso",
+        "confianca": 0.99904,
+        "probabilidades": {
+          "acesso": 0.99904,
+          "avaliacao": 0.000258,
+          "calendario": 0.000241,
+          "frequencia": 0.000241,
+          "notas": 0.000219
+        }
+      },
+      "texto": "não consigo acessar a plataforma acadêmica"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.072645,
+          "1": 1.931658,
+          "2": 2.118914,
+          "3": 2.226809,
+          "4": 1.325207
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.860048,
+        "probabilidades": {
+          "acesso": 0.005218,
+          "avaliacao": 0.111864,
+          "calendario": 0.860048,
+          "frequencia": 0.005973,
+          "notas": 0.016897
+        }
+      },
+      "texto": "quando começa o semestre"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.463561,
+          "1": 1.848111,
+          "2": 2.050386,
+          "3": 2.226809,
+          "4": 2.07647
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.832931,
+        "probabilidades": {
+          "acesso": 0.009703,
+          "avaliacao": 0.080891,
+          "calendario": 0.832931,
+          "frequencia": 0.055529,
+          "notas": 0.020947
+        }
+      },
+      "texto": "qual o calendário acadêmico"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.367182,
+          "1": 2.050606,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.660173
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.9641,
+        "probabilidades": {
+          "acesso": 0.001678,
+          "avaliacao": 0.01906,
+          "calendario": 0.9641,
+          "frequencia": 0.004017,
+          "notas": 0.011145
+        }
+      },
+      "texto": "quando começam as aulas"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.072645,
+          "1": 1.931658,
+          "2": 2.118914,
+          "3": 2.226809,
+          "4": 1.366486
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.911002,
+        "probabilidades": {
+          "acesso": 0.005527,
+          "avaliacao": 0.059246,
+          "calendario": 0.911002,
+          "frequencia": 0.006326,
+          "notas": 0.017898
+        }
+      },
+      "texto": "quando termina o semestre"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.750739,
+          "1": 2.394014,
+          "2": 2.490799,
+          "3": 2.637931,
+          "4": 2.422248
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.888967,
+        "probabilidades": {
+          "acesso": 0.001314,
+          "avaliacao": 0.098501,
+          "calendario": 0.888967,
+          "frequencia": 0.008231,
+          "notas": 0.002986
+        }
+      },
+      "texto": "qual a data do próximo semestre"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.327125,
+          "2": 2.547508,
+          "3": 2.637931,
+          "4": 1.819815
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.872091,
+        "probabilidades": {
+          "acesso": 0.001813,
+          "avaliacao": 0.109196,
+          "calendario": 0.872091,
+          "frequencia": 0.004542,
+          "notas": 0.012358
+        }
+      },
+      "texto": "quando será o início das aulas"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.187221,
+          "2": 2.547508,
+          "3": 2.637931,
+          "4": 2.467692
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.974655,
+        "probabilidades": {
+          "acesso": 0.004323,
+          "avaliacao": 0.005785,
+          "calendario": 0.974655,
+          "frequencia": 0.005415,
+          "notas": 0.009821
+        }
+      },
+      "texto": "quais são as datas acadêmicas"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.072645,
+          "1": 1.502537,
+          "2": 2.015248,
+          "3": 2.226809,
+          "4": 2.049541
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.464483,
+        "probabilidades": {
+          "acesso": 0.013527,
+          "avaliacao": 0.032221,
+          "calendario": 0.464483,
+          "frequencia": 0.139345,
+          "notas": 0.350425
+        }
+      },
+      "texto": "onde vejo o calendário"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.515209,
+          "1": 1.931658,
+          "2": 2.050386,
+          "3": 2.226809,
+          "4": 2.022253
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.749457,
+        "probabilidades": {
+          "acesso": 0.01455,
+          "avaliacao": 0.121308,
+          "calendario": 0.749457,
+          "frequencia": 0.083273,
+          "notas": 0.031412
+        }
+      },
+      "texto": "qual o período letivo"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.367182,
+          "1": 2.101312,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.693306
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.934311,
+        "probabilidades": {
+          "acesso": 0.003251,
+          "avaliacao": 0.036943,
+          "calendario": 0.934311,
+          "frequencia": 0.003893,
+          "notas": 0.021601
+        }
+      },
+      "texto": "quando começam as atividades"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 0,
+        "distancias": {
+          "0": 1.589537,
+          "1": 2.126212,
+          "2": 2.281246,
+          "3": 2.44104,
+          "4": 2.231232
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.952489,
+        "probabilidades": {
+          "acesso": 0.001768,
+          "avaliacao": 0.031245,
+          "calendario": 0.952489,
+          "frequencia": 0.010583,
+          "notas": 0.003915
+        }
+      },
+      "texto": "qual o calendário do semestre"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.301273,
+          "1": 2.175156,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.725803
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.938725,
+        "probabilidades": {
+          "acesso": 0.00363,
+          "avaliacao": 0.041242,
+          "calendario": 0.938725,
+          "frequencia": 0.004346,
+          "notas": 0.012057
+        }
+      },
+      "texto": "quando termina o período letivo"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "avaliacao",
+        "cluster": 4,
+        "distancias": {
+          "0": 2.2676,
+          "1": 2.175156,
+          "2": 2.343031,
+          "3": 2.44104,
+          "4": 1.626365
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.948223,
+        "probabilidades": {
+          "acesso": 0.001833,
+          "avaliacao": 0.041659,
+          "calendario": 0.948223,
+          "frequencia": 0.002195,
+          "notas": 0.00609
+        }
+      },
+      "texto": "quando começa o próximo semestre"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.569737,
+          "1": 2.163023,
+          "2": 2.547508,
+          "3": 2.637931,
+          "4": 2.399203
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.98959,
+        "probabilidades": {
+          "acesso": 0.001463,
+          "avaliacao": 0.001958,
+          "calendario": 0.98959,
+          "frequencia": 0.003665,
+          "notas": 0.003324
+        }
+      },
+      "texto": "quais as datas das aulas"
+    },
+    {
+      "classe_real": "calendario",
+      "kmeans": {
+        "classe_predominante_do_cluster": "notas",
+        "cluster": 1,
+        "distancias": {
+          "0": 2.2676,
+          "1": 1.890346,
+          "2": 2.281246,
+          "3": 2.44104,
+          "4": 2.280486
+        }
+      },
+      "naive_bayes": {
+        "classe": "calendario",
+        "confianca": 0.886762,
+        "probabilidades": {
+          "acesso": 0.008229,
+          "avaliacao": 0.020778,
+          "calendario": 0.886762,
+          "frequencia": 0.029559,
+          "notas": 0.054672
+        }
+      },
+      "texto": "onde encontro o calendário acadêmico"
+    }
+  ],
+  "total": 75
+}
+

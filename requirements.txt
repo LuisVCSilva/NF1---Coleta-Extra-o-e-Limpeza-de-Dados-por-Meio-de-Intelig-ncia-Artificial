@@ -1,0 +1,6 @@
+numpy
+flask
+nltk
+scipy
+rapidfuzz
+sklearn
